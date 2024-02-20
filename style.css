@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+}
+header h1{
+    font-size: 50px;
+}
+header p {
+    font-size: 20px;
+    background-color: rgb(255, 172, 172);
+    width: 80px;
+}
+main input{
+    width: 450px;
+    height: 40px;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 17px;
+}
+main #button{
+    color: aqua;
+    font-size: 18px;
+    width: 120px;
+    height: 40px;
+    background-color: transparent;
+    border: 3px solid aqua;
+}
+table tr{
+    text-align: center;
+}
+.tepa{
+    display: flex;
+    gap: 95px;
+}
+.tepa p{
+    margin-left: 0px;
+}
+
+table{
+    display: flex;
+    gap: 95px;
+}
+.rb{
+    margin-top: 10px;
+    display: flex;
+    gap: 100px;
+}
+.orab-turish i{
+    cursor: pointer;
+    display: block;
+}
+.rb i{
+    display: block;
+}
